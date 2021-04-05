@@ -1,10 +1,10 @@
 export const links = [
   {
-    name: "People",
-    href: "/people",
+    name: "People -- local",
+    href: "/people/",
   },
   {
-    name: "Planets",
+    name: "Planets -- local",
     href: "/planets",
   },
 ];
